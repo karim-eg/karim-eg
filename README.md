@@ -6,9 +6,9 @@
 
 #### favorite Repo
 
-<a href="https://github.com/kimoandroid/Smart-BadgeView">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimoandroid&repo=Smart-BadgeView"/>
+<a href="https://github.com/kimoandroid/Android-WebSocketClient">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimoandroid&repo=Android-WebSocketClient"/>
 </a>
-<a href="https://github.com/kimoandroid/Morse-Code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimoandroid&repo=Morse-Code"/>
+<a href="https://github.com/kimoandroid/CountriesList">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimoandroid&repo=CountriesList"/>
 </a>
