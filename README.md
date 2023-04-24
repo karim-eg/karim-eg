@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Fullstack+developer;Backend+Developer;Android+Developer;CEO+of+Encept+Ltd+Company&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Fullstack+developer;Backend+Developer;Android+Developer;CEO+of+Encept+Ltd+Company&font=Fira%20Code&width=440&height=45&color=7f52ff&vCenter=true&size=22"></a>
 </p> 
 
 ### About Me:
