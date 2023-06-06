@@ -15,21 +15,7 @@
 
 
 ### 🛠 &nbsp;My Skills:
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php&logoColor=563D7C)&nbsp;
-![Sql](https://img.shields.io/badge/-Sql-05122A?style=flat&logo=sql)&nbsp;
-![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=c++)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
-![Intellij Ide](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=intellij)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,php,mysql,cpp,ktor,androidstudio,idea,vscode,gradle,git,mongodb,laravel,firebase,html,css,devto,linkedin,discord,github,postman,powershell,stackoverflow&perline=12)](https://skillicons.dev)
 
 
 ### Contact Me:
