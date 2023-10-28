@@ -1,11 +1,14 @@
 <h3 align="center">
+  <img src="https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_badge.svg"><br><br>
   Welcome to Karim Abdallah's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Fullstack+developer;Backend+Developer;Android+Developer;CEO+of+Encept+Ltd+Company&font=Fira%20Code&width=440&height=45&color=7f52ff&vCenter=true&size=22"></a>
-</p> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Fullstack+developer;Backend+Developer;Android+Developer;CEO+of+Encept+Ltd+Company&font=Fira%20Code&width=440&height=45&color=7f52ff&vCenter=true&size=22"></a><br><br>
+
+  <img src="https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_banner.svg">
+</p><br>
 
 ### About Me:
 - 🏢 I'm a Software Developer at Encept Ltd Company.
@@ -32,3 +35,5 @@
 <a href="https://komarev.com/ghpvc/?username=kimoandroid&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=kimoandroid&style=for-the-badge">
 </a>
+
+[![StandWithPalestine](https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/kimoandroid/StandWithPalestine)
