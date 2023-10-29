@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_badge.svg"><br><br>
+  <a href="https://github.com/kimoandroid/StandWithPalestine"><img src="https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_badge.svg"></a><br><br>
   Welcome to Karim Abdallah's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Fullstack+developer;Backend+Developer;Android+Developer;CEO+of+Encept+Ltd+Company&font=Fira%20Code&width=440&height=45&color=7f52ff&vCenter=true&size=22"></a><br><br>
 
-  <img src="https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_banner.svg">
+  <a href="https://github.com/kimoandroid/StandWithPalestine/blob/main/Donate.md"><img src="https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_banner.svg"></a>
 </p><br>
 
 ### About Me:
