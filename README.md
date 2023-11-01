@@ -31,8 +31,8 @@
 
 <details>
   <summary>Github Stats</summary>
-  <a href="https://encept.co"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-eg&show_icons=true&include_all_commits=true&hide_border=true" alt="Kimo Android stats"/></a>
-  <a href="[https://encept.co](https://encept.co)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-eg&layout=compact&hide_border=true"/></a>
+  <a href="https://encept.co"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-eg&theme=blueberry&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="Kimo Android stats"/></a>
+  <a href="[https://encept.co](https://encept.co)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-eg&layout=compact&theme=blueberry&count_private=true&hide_border=true"/></a>
 </details>
 
 <br>
