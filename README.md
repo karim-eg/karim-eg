@@ -1,4 +1,5 @@
 <h3 align="center">
+  <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/509470139171995672?simple=true">
   <a href="https://github.com/karim-eg/StandWithPalestine"><img src="https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg"></a><br><br>
   Welcome to Karim Abdallah's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -28,12 +29,14 @@
 
 <br>
 
-| <a href="https://encept.co"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-eg&show_icons=true&include_all_commits=true&hide_border=true" alt="Kimo Android stats"/></a> | <a href="[https://encept.co](https://encept.co)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-eg&layout=compact&hide_border=true"/></a> |
-| ------------- | ------------- |
+<details>
+  <summary>Github Stats</summary>
+  <a href="https://encept.co"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-eg&show_icons=true&include_all_commits=true&hide_border=true" alt="Kimo Android stats"/></a>
+  <a href="[https://encept.co](https://encept.co)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-eg&layout=compact&hide_border=true"/></a>
+</details>
 
 <br>
 <a href="https://komarev.com/ghpvc/?username=karim-eg&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=karim-eg&style=for-the-badge">
 </a>
 
-[![StandWithPalestine](https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/karim-eg/StandWithPalestine)
