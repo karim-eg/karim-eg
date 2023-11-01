@@ -1,5 +1,5 @@
 <h3 align="center">
-  <a href="https://github.com/kimoandroid/StandWithPalestine"><img src="https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_badge.svg"></a><br><br>
+  <a href="https://github.com/karim-eg/StandWithPalestine"><img src="https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg"></a><br><br>
   Welcome to Karim Abdallah's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Fullstack+developer;Backend+Developer;Android+Developer;CEO+of+Encept+Ltd+Company&font=Fira%20Code&width=440&height=45&color=7f52ff&vCenter=true&size=22"></a><br><br>
 
-  <a href="https://github.com/kimoandroid/StandWithPalestine/blob/main/Donate.md"><img src="https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_banner.svg"></a>
+  <a href="https://github.com/karim-eg/StandWithPalestine/blob/main/Donate.md"><img src="https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_banner.svg"></a>
 </p><br>
 
 ### About Me:
@@ -28,12 +28,12 @@
 
 <br>
 
-| <a href="https://encept.co"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kimoandroid&show_icons=true&include_all_commits=true&hide_border=true" alt="Kimo Android stats"/></a> | <a href="[https://encept.co](https://encept.co)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimoandroid&layout=compact&hide_border=true"/></a> |
+| <a href="https://encept.co"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-eg&show_icons=true&include_all_commits=true&hide_border=true" alt="Kimo Android stats"/></a> | <a href="[https://encept.co](https://encept.co)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-eg&layout=compact&hide_border=true"/></a> |
 | ------------- | ------------- |
 
 <br>
-<a href="https://komarev.com/ghpvc/?username=kimoandroid&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=kimoandroid&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=karim-eg&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=karim-eg&style=for-the-badge">
 </a>
 
-[![StandWithPalestine](https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/kimoandroid/StandWithPalestine)
+[![StandWithPalestine](https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/karim-eg/StandWithPalestine)
