@@ -1,15 +1,21 @@
 <h3 align="center">
   <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/509470139171995672?simple=true">
-  <a href="https://github.com/karim-eg/StandWithPalestine"><img src="https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg"></a><br><br>
+  <img src="https://user-badge.committers.top/egypt/karim-eg.svg">
+  <a href="https://github.com/karim-eg/StandWithPalestine"><img src="https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg"></a>
+  <br><br>
   Welcome to Karim Abdallah's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Fullstack+developer;Backend+Developer;Android+Developer;CEO+of+Encept+Ltd+Company&font=Fira%20Code&width=440&height=45&color=7f52ff&vCenter=true&size=22"></a><br><br>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Fullstack+developer;Backend+Developer;Android+Developer;CEO+of+Encept+Ltd+Company&font=Fira%20Code&width=440&height=45&color=7f52ff&vCenter=true&size=22"></a>
+</p>
 
-  <a href="https://github.com/karim-eg/StandWithPalestine/blob/main/Donate.md"><img src="https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_banner.svg"></a>
-</p><br>
+<p align="center">
+  <a href="https://github.com/karim-eg/StandWithPalestine/blob/main/Donate.md"><img src="https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_banner.svg" width="55%"></a>
+</p>
+
+<br>
 
 ### About Me:
 - 🏢 I'm a Software Developer at Encept Ltd Company.
@@ -19,7 +25,7 @@
 
 
 ### 🛠 &nbsp;My Skills:
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,php,mysql,cpp,ktor,androidstudio,idea,vscode,gradle,git,mongodb,laravel,firebase,html,css,devto,linkedin,discord,github,postman,powershell,stackoverflow&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,php,mysql,sqlite,cpp,ktor,androidstudio,idea,vscode,gradle,github,git,md,mongodb,laravel,firebase,devto,linkedin,discord,bots,postman,powershell,linux,stackoverflow,gcp,replit,html,css&perline=12)](https://skillicons.dev)
 
 
 ### Contact Me:
@@ -30,13 +36,30 @@
 <br>
 
 <details>
-  <summary>Github Stats</summary>
-  <a href="https://encept.co"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-eg&theme=blueberry&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="Kimo Android stats"/></a>
-  <a href="[https://encept.co](https://encept.co)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-eg&layout=compact&theme=blueberry&count_private=true&hide_border=true"/></a>
+  <summary><h3>Github Stats</h3></summary>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="karim-eg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karim-eg&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karim-eg&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="karim-eg" height="230px"/>
 </details>
 
+<details>
+  <summary><h3>My Streak</h3></summary>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karim-eg&theme=tokyonight_duo" alt="karim" /></p>
+</details>
+
+
+<details><summary> <h3>:trophy: Trophies</h3></summary>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karim-eg&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="karim-eg" /></a> </p>
+</details>
+
+
 <br>
+
+<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+
+<br>
+
 <a href="https://komarev.com/ghpvc/?username=karim-eg&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=karim-eg&style=for-the-badge">
 </a>
-
