@@ -27,6 +27,13 @@
 ### 🛠 &nbsp;My Skills:
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,php,mysql,sqlite,cpp,ktor,androidstudio,idea,vscode,gradle,github,git,md,mongodb,laravel,firebase,devto,linkedin,discord,bots,postman,powershell,linux,stackoverflow,gcp,replit,html,css&perline=12)](https://skillicons.dev)
 
+<br>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@karim/30-nites-of-code)  
+  ![@karim #30NitesOfCode](https://www.codedex.io/api/petStatus?user=karim)
+  
+<br>
 
 ### Contact Me:
 <a href="https://www.facebook.com/karim.abdallah.dev" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Abdallah-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
