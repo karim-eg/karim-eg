@@ -1,8 +1,7 @@
 <h3 align="center">
   <a href="https://github.com/karim-eg/StandWithPalestine"><img src="https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg"></a>
   <a href="https://wakatime.com/@018d361c-db8c-49ff-b17e-4b367310d84d"><img src="https://wakatime.com/badge/user/018d361c-db8c-49ff-b17e-4b367310d84d.svg" alt="Total time coded since Jan 23 2024" /></a>
-  <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/509470139171995672?simple=true">
-  <img src="https://user-badge.committers.top/egypt/karim-eg.svg">
+  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24691%26project%3D%26in=0">
   <br><br>
   Welcome to Karim Abdallah's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
