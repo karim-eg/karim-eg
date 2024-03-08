@@ -1,18 +1,16 @@
 <h3 align="center">
   <a href="https://github.com/karim-eg/StandWithPalestine"><img src="https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg"></a>
+  <a href="https://komarev.com/ghpvc/?username=karim-eg"><img src="https://komarev.com/ghpvc/?username=karim-eg"></a>
   <a href="https://wakatime.com/@018d361c-db8c-49ff-b17e-4b367310d84d"><img src="https://wakatime.com/badge/user/018d361c-db8c-49ff-b17e-4b367310d84d.svg" alt="Total time coded since Jan 23 2024" /></a>
   <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24691%26project%3D%26in=0">
-  <br><br>
+
+
   Welcome to Karim Abdallah's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Fullstack+developer;Backend+Developer;Android+Developer;CEO+of+Encept+Ltd+Company&font=Fira%20Code&width=440&height=45&color=7f52ff&vCenter=true&size=22"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/karim-eg/StandWithPalestine/blob/main/Donate.md"><img src="https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_banner.svg" width="55%"></a>
 </p>
 
 <br>
@@ -23,6 +21,7 @@
 - ⚡ I can work on your project or create your dream project easily.
 - 👨‍💻 Check out my company website at https://encept.co to see some of the projects I've worked on.
 
+<br>
 
 ### 🛠 &nbsp;My Skills:
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,php,mysql,sqlite,cpp,ktor,androidstudio,idea,vscode,gradle,github,git,md,mongodb,laravel,firebase,devto,linkedin,discord,bots,postman,powershell,linux,stackoverflow,gcp,replit,html,css&perline=12)](https://skillicons.dev)
@@ -67,6 +66,5 @@
 
 <br>
 
-<a href="https://komarev.com/ghpvc/?username=karim-eg&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=karim-eg&style=for-the-badge">
-</a>
+
+<a href="https://github.com/karim-eg/StandWithPalestine/blob/main/Donate.md"><img src="https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_banner.svg" width="55%"></a>
