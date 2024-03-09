@@ -23,17 +23,6 @@
 
 <br>
 
-### 🛠 &nbsp;My Skills:
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,php,mysql,sqlite,cpp,ktor,androidstudio,idea,vscode,gradle,github,git,md,mongodb,laravel,firebase,devto,linkedin,discord,bots,postman,powershell,linux,stackoverflow,gcp,replit,html,css&perline=12)](https://skillicons.dev)
-
-<br>
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@karim/30-nites-of-code)  
-  ![@karim #30NitesOfCode](https://www.codedex.io/api/petStatus?user=karim)
-  
-<br>
-
 ### Contact Me:
 <a href="https://www.facebook.com/karim.abdallah.dev" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Abdallah-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/karim-abdallah-dev" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Abdallah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -41,21 +30,45 @@
 
 <br>
 
+### 🛠 &nbsp;My Skills:
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,php,mysql,sqlite,cpp,ktor,androidstudio,idea,vscode,gradle,github,git,md,mongodb,laravel,firebase,devto,linkedin,discord,bots,postman,powershell,linux,stackoverflow,gcp,replit,html,css&perline=12)](https://skillicons.dev)
+
+<br>
+
+## #30NitesOfCode (Codedéx):
+  [Check out my progress!](https://www.codedex.io/@karim/30-nites-of-code)  
+  ![@karim #30NitesOfCode](https://www.codedex.io/api/petStatus?user=karim)
+
+
+<br><br>
+
+
+[![Karim's WakaTime stats](https://encept-github-status.vercel.app/api/wakatime?username=@karim_eg&theme=transparent)](https://github.com/karim-eg)
+<img src="https://encept-github-status.vercel.app/api/top-langs?username=karim-eg&langs_count=6&show_icons=true&locale=en&theme=transparent&layout=donut" alt="karim-eg"/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+	<img alt="karim-eg's Github Stats" src="https://encept-github-status.vercel.app/api?username=karim-eg&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
+    </a>
+<br><br>
+
+## Github Stats:
 <details>
-  <summary><h3>Github Stats</h3></summary>
+  <summary>Github Stats</summary>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="karim-eg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karim-eg&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karim-eg&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="karim-eg" height="230px"/>
+    
+	  
 </details>
+
+<br>
 
 <details>
-  <summary><h3>My Streak</h3></summary>
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karim-eg&theme=tokyonight_duo" alt="karim" /></p>
+  <summary>My Streak</summary>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karim-eg&theme=transparent" alt="karim" /></p>
 </details>
 
+<br>
 
-<details><summary> <h3>:trophy: Trophies</h3></summary>
+<details><summary>:trophy: Trophies</summary>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karim-eg&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="karim-eg" /></a> </p>
 </details>
 
