@@ -26,7 +26,7 @@
 <br>
 
 ### 🎯 &nbsp;My Skills:
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,php,mysql,sqlite,cpp,ktor,androidstudio,idea,vscode,gradle,github,git,md,mongodb,laravel,firebase,devto,linkedin,discord,bots,postman,powershell,linux,stackoverflow,gcp,replit,html,css&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,php,mysql,sqlite,ktor,androidstudio,idea,phpstorm,webstorm,pycharm,vscode,gradle,github,git,md,firebase,devto,linkedin,discord,bots,postman,windows,linux,powershell,stackoverflow,gcp,replit,notion,graphql,mongodb,laravel,py,cpp,html,css&perline=12)](https://skillicons.dev)
 
 <br>
 
