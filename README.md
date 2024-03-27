@@ -31,9 +31,9 @@
 <br>
 
 ### 📩 Contact Me:
-<a href="https://www.facebook.com/karim.abdallah.dev" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Abdallah-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/karim-abdallah-dev" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Abdallah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kimospprt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-kimospprt@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/karim.abdallah.dev" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Abdallah-0077B5?style=for-the-badge&logo=Facebook"/></a>
+<a href="https://www.linkedin.com/in/karim-abdallah-dev" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Abdallah-0077B5?style=for-the-badge&logo=Linkedin"/></a>
+<a href="mailto:kimospprt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-kimospprt@gmail.com-0077B5?style=for-the-badge&logo=Gmail"/></a>
 
 <br>
 
