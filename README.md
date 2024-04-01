@@ -19,7 +19,7 @@
 - 🏢 I'm an **Android Engineer** Using **Kotlin** & **Java**.
 - 💬 Ask me about my experience with **Kotlin**, **Java**, **Php**, **Sql** or **Android development**.
 - ⚡ I can work on your project even if it was small or huge project.
-- 👨‍💻 Check out my company website at **https://encept.online** to see some of the projects I've worked on.
+- 👨‍💻 Check out my company website at **https://kotect.com** to see some of the projects I've worked on.
 
 > I am an Android Developer Using **Kotlin Native**, **Jetpack Compose** & **Java**, where I use my skills in **PHP**, **SQL**, **Kotlin** and **Java** to design, develop, and maintain the backend and frontend of our applications. I am passionate about **learning new technologies** and frameworks like **Ktor** and **Laravel**, and I have completed several online courses and certifications in **Android Development**.
 
