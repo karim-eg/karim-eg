@@ -48,7 +48,7 @@
 fun main() {
     while (coffeeAvailable) {
         code()
-	fixgBugs()
+	fixBugs()
 	loveKotlin()
         sleep()
         repeat()
