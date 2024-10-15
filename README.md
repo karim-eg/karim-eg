@@ -42,11 +42,11 @@
 
 
 ## My Lifecycle
-<img src="./assets/funcode.gif" align="right"/>
+<img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" width="250" height="250" align="right"/>
 
 ```kotlin
 fun main() {
-    while (coffeeAvailable) {
+    while (Alive) {
         code()
 	fixBugs()
 	loveKotlin()
