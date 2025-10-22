@@ -48,8 +48,8 @@
 fun main() {
     while (Alive) {
         code()
-	fixBugs()
-	loveKotlin()
+		fixBugs()
+		loveKotlin()
         sleep()
         repeat()
     }
