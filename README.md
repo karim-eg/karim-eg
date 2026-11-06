@@ -17,7 +17,7 @@
 <br>
 
 
-### ℹ️ About Me (<a href="karim_cv.pdf" target="_blank">View My CV</a>)
+### ℹ️ About Me (<a href="Karim Resume.pdf" target="_blank">View My Resume</a>)
 |🏢 I'm an **Android Engineer** Using **Kotlin** & **Java**.|
 | :--- |
 |💬 Ask me about my experience with **Kotlin**, **Java**, **Php**, **Sql** or **Android development**.|
