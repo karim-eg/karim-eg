@@ -69,6 +69,11 @@ fun main() {
 
 
 ## 🎖️ My Statistics:
+<h3>Roadmap:</h3>
+<img src="https://roadmap.sh/card/wide/6605d1beda1671f986d0ba8e?variant=dark&roadmaps=android%2Ckotlin%2Claravel%2Cphp" alt="Karim's WakaTime stats" />
+
+<br>
+
 <h3>Coding Time:</h3>
 <img src="https://encept-github-status.vercel.app/api/wakatime?username=@karim_eg&theme=transparent" alt="Karim's WakaTime stats" />
 
@@ -93,5 +98,3 @@ fun main() {
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming?border=true">
 </a>
-
-[![committers.top badge](https://user-badge.committers.top/egypt_private/karim-eg.svg)](https://user-badge.committers.top/egypt_private/karim-eg)
